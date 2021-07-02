@@ -28,8 +28,8 @@ https://t2hkzdxe1l.execute-api.us-east-1.amazonaws.com/dev/Hello/afternoon
 https://t2hkzdxe1l.execute-api.us-east-1.amazonaws.com/dev/Hello/night
 
 ### Amplify hosting urls: 
-┌──────────────┬──────────────────────────────────────────────┐
-│ FrontEnd Env │ Domain                                       │
-├──────────────┼──────────────────────────────────────────────┤
-│ master       │ https://master.d23fpmqq2zaxl3.amplifyapp.com │
-└──────────────┴──────────────────────────────────────────────┘
+
+| FrontEnd Env | Domain                                       |
+| -------- | ------------------------------------------------ |
+| master   | https://master.d23fpmqq2zaxl3.amplifyapp.com     |
+
