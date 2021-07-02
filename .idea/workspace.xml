@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64a4fdc5-dba3-459d-aa74-a10da188a670" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/amplify/backend/backend-config.json" beforeDir="false" afterPath="$PROJECT_DIR$/amplify/backend/backend-config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/amplify/team-provider-info.json" beforeDir="false" afterPath="$PROJECT_DIR$/amplify/team-provider-info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1625211436979</updated>
-      <workItem from="1625211438350" duration="3069000" />
+      <workItem from="1625211438350" duration="3699000" />
     </task>
     <task id="LOCAL-00001" summary="build project">
       <created>1625212570858</created>
@@ -87,7 +85,21 @@
       <option name="project" value="LOCAL" />
       <updated>1625212570858</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add renew to test continuous deployment">
+      <created>1625214912365</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1625214912365</updated>
+    </task>
+    <task id="LOCAL-00003" summary="modify tables">
+      <created>1625215019935</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1625215019935</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,7 +107,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="build project" />
-    <option name="LAST_COMMIT_MESSAGE" value="build project" />
+    <MESSAGE value="add renew to test continuous deployment" />
+    <MESSAGE value="modify tables" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify tables" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1771" height="318" key="GridCell.Tab.0.bottom" timestamp="1625211707623">
@@ -114,9 +128,9 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state width="1771" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1625211707623" />
-    <state x="496" y="284" key="Vcs.Push.Dialog.v2" timestamp="1625212630065">
+    <state x="496" y="284" key="Vcs.Push.Dialog.v2" timestamp="1625215021319">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="284" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1625212630065" />
+    <state x="496" y="284" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1625215021319" />
   </component>
 </project>

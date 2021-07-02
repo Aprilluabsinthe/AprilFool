@@ -1,5 +1,9 @@
 # An amplify learning repository in N.Virginia
 
+## continue working
+
+`amplify pull --appId d23fpmqq2zaxl3 --envName dev`
+
 ## add one APIs:
 
 | Category | Resource name    | Operation | Provider plugin   |
@@ -15,7 +19,7 @@ REST API endpoint:
 
 ### GET URLS(By Template 'Hello-world')
 
-https://sucb6szyj9.execute-api.us-east-1.amazonaws.com/dev/indec
+https://sucb6szyj9.execute-api.us-east-1.amazonaws.com/dev/index
 
 ### GET URLS(By Lambda Function - Serverless ExpressJS function):
 
