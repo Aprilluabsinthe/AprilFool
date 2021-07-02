@@ -1,0 +1,35 @@
+{
+  "paths": [
+    {
+      "name": "/index",
+      "lambdaFunction": "hellowordTemplate",
+      "privacy": {
+        "open": true
+      },
+      "policyResourceName": "/index"
+    }
+  ],
+  "resourceName": "index",
+  "apiName": "index",
+  "functionArns": [
+    {
+      "lambdaFunction": "hellowordTemplate"
+    }
+  ],
+  "privacy": {
+    "auth": 0,
+    "unauth": 0,
+    "authRoleName": "amplify-aprilfool-dev-34304-authRole",
+    "unAuthRoleName": "amplify-aprilfool-dev-34304-unauthRole"
+  },
+  "dependsOn": [
+    {
+      "category": "function",
+      "resourceName": "hellowordTemplate",
+      "attributes": [
+        "Name",
+        "Arn"
+      ]
+    }
+  ]
+}
