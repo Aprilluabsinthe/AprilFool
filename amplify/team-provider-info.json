@@ -1,37 +1,37 @@
 {
-    "dev": {
-        "awscloudformation": {
-            "AuthRoleName": "amplify-aprilfool-dev-34304-authRole",
-            "UnauthRoleArn": "arn:aws:iam::373817079404:role/amplify-aprilfool-dev-34304-unauthRole",
-            "AuthRoleArn": "arn:aws:iam::373817079404:role/amplify-aprilfool-dev-34304-authRole",
-            "Region": "us-east-1",
-            "DeploymentBucketName": "amplify-aprilfool-dev-34304-deployment",
-            "UnauthRoleName": "amplify-aprilfool-dev-34304-unauthRole",
-            "StackName": "amplify-aprilfool-dev-34304",
-            "StackId": "arn:aws:cloudformation:us-east-1:373817079404:stack/amplify-aprilfool-dev-34304/23c0f950-db09-11eb-8254-1263ebc1f863",
-            "AmplifyAppId": "d23fpmqq2zaxl3"
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-aprilfool-dev-34304-authRole",
+      "UnauthRoleArn": "arn:aws:iam::373817079404:role/amplify-aprilfool-dev-34304-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::373817079404:role/amplify-aprilfool-dev-34304-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-aprilfool-dev-34304-deployment",
+      "UnauthRoleName": "amplify-aprilfool-dev-34304-unauthRole",
+      "StackName": "amplify-aprilfool-dev-34304",
+      "StackId": "arn:aws:cloudformation:us-east-1:373817079404:stack/amplify-aprilfool-dev-34304/23c0f950-db09-11eb-8254-1263ebc1f863",
+      "AmplifyAppId": "d23fpmqq2zaxl3"
+    },
+    "categories": {
+      "function": {
+        "GreetingFunction": {
+          "deploymentBucketName": "amplify-aprilfool-dev-34304-deployment",
+          "s3Key": "amplify-builds/GreetingFunction-4f465864644b44542b34-build.zip"
         },
-        "categories": {
-            "function": {
-                "GreetingFunction": {
-                    "deploymentBucketName": "amplify-aprilfool-dev-34304-deployment",
-                    "s3Key": "amplify-builds/GreetingFunction-5a43304c71463275495a-build.zip"
-                },
-                "ExpressTry": {
-                    "deploymentBucketName": "amplify-aprilfool-dev-34304-deployment",
-                    "s3Key": "amplify-builds/ExpressTry-46697733524548597938-build.zip"
-                },
-                "hellowordTemplate": {
-                    "deploymentBucketName": "amplify-aprilfool-dev-34304-deployment",
-                    "s3Key": "amplify-builds/hellowordTemplate-6c5264642b30624c4165-build.zip"
-                }
-            },
-            "hosting": {
-                "amplifyhosting": {
-                    "appId": "d23fpmqq2zaxl3",
-                    "type": "cicd"
-                }
-            }
+        "ExpressTry": {
+          "deploymentBucketName": "amplify-aprilfool-dev-34304-deployment",
+          "s3Key": "amplify-builds/ExpressTry-38664c4275704658514c-build.zip"
+        },
+        "hellowordTemplate": {
+          "deploymentBucketName": "amplify-aprilfool-dev-34304-deployment",
+          "s3Key": "amplify-builds/hellowordTemplate-31467744755858526f4f-build.zip"
         }
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d23fpmqq2zaxl3",
+          "type": "cicd"
+        }
+      }
     }
+  }
 }

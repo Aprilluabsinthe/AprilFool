@@ -1,8 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="64a4fdc5-dba3-459d-aa74-a10da188a670" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amplify/backend/function/ExpressTry/src/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/amplify/backend/function/ExpressTry/src/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amplify/backend/function/GreetingFunction/src/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/amplify/backend/function/GreetingFunction/src/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amplify/backend/function/hellowordTemplate/src/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/amplify/backend/function/hellowordTemplate/src/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amplify/team-provider-info.json" beforeDir="false" afterPath="$PROJECT_DIR$/amplify/team-provider-info.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +61,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.build">
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -75,7 +97,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1625211436979</updated>
-      <workItem from="1625211438350" duration="4313000" />
+      <workItem from="1625211438350" duration="4849000" />
+      <workItem from="1625254303488" duration="1304000" />
     </task>
     <task id="LOCAL-00001" summary="build project">
       <created>1625212570858</created>
@@ -111,6 +134,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="build project" />
     <MESSAGE value="add renew to test continuous deployment" />
@@ -119,22 +153,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="add command for continuing working" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1771" height="318" key="GridCell.Tab.0.bottom" timestamp="1625211707623">
+    <state width="1771" height="318" key="GridCell.Tab.0.bottom" timestamp="1625254285242">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1771" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1625211707623" />
-    <state width="1771" height="318" key="GridCell.Tab.0.center" timestamp="1625211707622">
+    <state width="1771" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1625254285242" />
+    <state width="1771" height="318" key="GridCell.Tab.0.center" timestamp="1625254285241">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1771" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1625211707622" />
-    <state width="1771" height="318" key="GridCell.Tab.0.left" timestamp="1625211707622">
+    <state width="1771" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1625254285241" />
+    <state width="1771" height="318" key="GridCell.Tab.0.left" timestamp="1625254285240">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1771" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1625211707622" />
-    <state width="1771" height="318" key="GridCell.Tab.0.right" timestamp="1625211707623">
+    <state width="1771" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1625254285240" />
+    <state width="1771" height="318" key="GridCell.Tab.0.right" timestamp="1625254285242">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1771" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1625211707623" />
+    <state width="1771" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1625254285242" />
     <state x="496" y="284" key="Vcs.Push.Dialog.v2" timestamp="1625215569168">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
