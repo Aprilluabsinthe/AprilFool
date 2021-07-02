@@ -1,0 +1,54 @@
+{
+  "paths": [
+    {
+      "name": "/hello",
+      "lambdaFunction": "GreetingFunction",
+      "privacy": {
+        "open": true
+      },
+      "policyResourceName": "/hello"
+    },
+    {
+      "name": "/Hello",
+      "lambdaFunction": "ExpressTry",
+      "privacy": {
+        "open": true
+      },
+      "policyResourceName": "/Hello"
+    }
+  ],
+  "resourceName": "greetingapi",
+  "apiName": "greetingapi",
+  "functionArns": [
+    {
+      "lambdaFunction": "GreetingFunction"
+    },
+    {
+      "lambdaFunction": "ExpressTry"
+    }
+  ],
+  "privacy": {
+    "auth": 0,
+    "unauth": 0,
+    "authRoleName": "amplify-aprilfool-dev-34304-authRole",
+    "unAuthRoleName": "amplify-aprilfool-dev-34304-unauthRole"
+  },
+  "dependsOn": [
+    {
+      "category": "function",
+      "resourceName": "GreetingFunction",
+      "attributes": [
+        "Name",
+        "Arn"
+      ]
+    },
+    {
+      "category": "function",
+      "resourceName": "ExpressTry",
+      "attributes": [
+        "Name",
+        "Arn"
+      ]
+    }
+  ]
+}
